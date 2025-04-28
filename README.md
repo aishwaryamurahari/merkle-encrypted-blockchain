@@ -66,7 +66,7 @@ python3 decrypt_blockchain.py
 
 ---
 
-## 🚨 Challenges encountered and it was solved
+## 🚨 Challenges encountered and how it was solved
 
 While building this blockchain, faced several tricky issues. Here's a more human version of the hurdles we ran into and how we tackled them:
 
