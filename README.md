@@ -1,4 +1,4 @@
-# Blockchain with Encrypted Transactions - README
+# Blockchain with Encrypted Transactions
 
 ## 🌟 Project Overview
 
