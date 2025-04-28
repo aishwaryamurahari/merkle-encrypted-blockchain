@@ -1,0 +1,9 @@
+{
+    "timestamp": 1745810283.3620632,
+    "transactions": [
+        "gAAAAABoDvNrLli4LRfrUNXnXzM2mFbKGZ7Tl-NaLRtza0gmCX1MQ5WpbB6RTQIMPOW41oq0sTFUgk8yr7bN2LqX6sxK6P18yGDYxLTuWd0iv-Ua427CmU4="
+    ],
+    "previous_hash": "0",
+    "merkle_root": "d87f6bbedd170bf1a87b699b8d0b2b36e9707b6f60bc7745f26d7c7a49874097",
+    "hash": "bff877511efbb7ddaa25e4270403f6a2aaafbc372dad8a7301a2e13068e71c33"
+}
